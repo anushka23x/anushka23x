@@ -1,72 +1,89 @@
-<!-- PROFILE HEADER -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=200&section=header&text=Anushka%20Gupta&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CSE%20%7C%20Artificial%20Intelligence%20%26%20Machine%20Learning&descAlignY=60&descSize=16" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&text=ANUSHKA%20GUPTA&fontSize=48&color=0:0f172a,50:4c1d95,100:7c3aed&stroke=8b5cf6&fontColor=ffffff&animation=fadeIn&desc=COMPUTER%20SCIENCE%20%7C%20AI%20%26%20ML&descSize=17&descAlignY=70"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Learning+%7C+Building+%7C+Growing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=C4B5FD&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;Exploring+Artificial+Intelligence;Learning+to+Build+Something+Amazing;One+Line+of+Code+at+a+Time." />
 
-<p>
-  <a href="https://www.linkedin.com/in/anushka-gupta-4a2432377/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Learning-8B5CF6?style=for-the-badge" />
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/anushka-gupta-4a2432377/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PROFILE-ASPIRING%20DEVELOPER-1E1B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-312E81?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## `01` — About Me
 
-Hello! I'm **Anushka Gupta**, a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**.
+```python
+class AnushkaGupta:
+    def __init__(self):
+        self.role = "CSE (AI & ML) Student"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Software Development"
+        ]
+        self.current_focus = "Learning & Building"
+        self.mindset = "Curiosity > Perfection"
 
-- 🎓 Exploring the world of Computer Science.
-- 🤖 Interested in AI, Machine Learning and emerging technologies.
-- 💻 Building programming fundamentals step by step.
-- 🌱 Learning new tools and technologies.
-- 🤝 Open to learning, collaboration and beginner-friendly projects.
+    def goal(self):
+        return "Turn ideas into meaningful projects"
+```
+
+Hi! I'm **Anushka Gupta**, a Computer Science student exploring the intersection of technology, intelligence, and creativity.
+
+I'm at the beginning of my development journey, learning the fundamentals and gradually turning what I learn into practical projects.
 
 ---
 
-## 🛠️ Technologies I'm Exploring
+## `02` — My Tech Universe
 
 <div align="center">
 
-### Programming Languages
+**Languages I'm Exploring**
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" />
 
-### Web Development
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+**Web Development**
 
-### Tools
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<br/><br/>
+
+**Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+## `03` — Current Mission
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 Programming
-- Strengthen coding fundamentals
-- Practice problem-solving
-- Explore Data Structures & Algorithms
+### 🧠 Learn
+
+- Programming fundamentals
+- AI & ML concepts
+- Data Structures & Algorithms
+- Problem-solving techniques
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI & Development
-- Learn AI/ML fundamentals
-- Explore beginner projects
-- Understand software development tools
+### ⚡ Build
+
+- Beginner-friendly projects
+- Programming experiments
+- Small web applications
+- A strong developer portfolio
 
 </td>
 </tr>
@@ -74,36 +91,45 @@ Hello! I'm **Anushka Gupta**, a Computer Science Engineering student specializin
 
 ---
 
-## 📊 GitHub Overview
+## `04` — GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## `05` — Beyond the Code
+
+- 🌱 Always curious, always learning.
+- 💡 Interested in innovative ideas and emerging technologies.
+- 🤝 Open to connecting with fellow learners.
+- 🚀 Working towards becoming a skilled software developer.
+
+---
+
+## `06` — Find Me Online
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/anushka-gupta-4a2432377/">
-<img src="https://img.shields.io/badge/LinkedIn-Anushka%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+**Have an idea? Let's learn, create, and grow together.**
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:0f172a&height=130&section=footer"/>
 
-### ✨ “Dream big, start small, and keep learning.”
-
-*Thanks for visiting my profile! 💜*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=110&section=footer" width="100%" />
+<sub>Designed with 💜 by Anushka Gupta</sub>
 
 </div>
